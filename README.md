@@ -1,2 +1,2 @@
-# collage-management-system
-a c++ project on collage managemet system using file handling.
+# Collage Management System
+- A C++ project on a collage management system using file handling.
